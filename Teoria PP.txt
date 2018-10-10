@@ -1,0 +1,88 @@
+Arrays
+
+int[] numeros;
+recorrerlo -> froreach(int var in numeros)
+Obtener cantidad elementos -> numeros.GetLenght(0)
+numeros.GetLowerBound(0)
+numeros.GetUpperBound(0)
+numeros.GetValue(indice)
+numeros.SetValue(indice)
+
+----------------------------------------------------------------------
+
+Pilas no genéricas (LIFO)
+
+System.Collections Stack pila = new System.Collections.Stack();
+
+pila.Push(elemento)
+
+foreach(tipoVariable var in pila)
+Console.Writeline(var);
+
+pila.Pop(elemento) -> quitar elemento
+
+foreach(object item in pila)
+if (item is Persona)
+((Personas.Persona) item).MostrarPersona()
+
+----------------------------------------------------------------------
+
+Colas no genéricas (FIFO)
+
+System.Collections.Queue cola = new System.Collections.Queue();
+
+cola.Enqueue(elemento);
+cola.Dequeue(elemento);
+
+----------------------------------------------------------------------
+
+Listas dinámicas
+
+System.Collections.ArrayList vec = new System.Collections.ArrayList();
+
+vec.Add(elemento);
+vec.Sort(); -> Ordena enteros, string, y char. Si quiero ordenar otra cosa debo especificar
+
+----------------------------------------------------------------------
+
+HashTable
+
+System.Collections.Hashtable ht = new System.Collections.Hashtable();
+
+ht.Add(clave, "valor1"); 
+-No puedo repetir la clave, pero si el valor
+-Con la clave accedo al valor
+
+for(i=1; i<= cant;i++)
+Console.WriteLine("Elemento {0} = {1}", i, ht[i]);
+
+
+----------------------------------------------------------------------
+
+Colecciones genéricas
+
+Dictionary<clave,valor> diccionario = new Dictionary<clave,valor>();
+
+- Solo puedo usar claves del mismo tipo y valores del mismo tipo
+
+for(i=1;i<=cant;i++)
+diccionario[i].MostrarPersona();
+
+diccionario.Add(clave,elemento);
+
+----------------------------------------------------------------------
+
+Listas genéricas
+
+List <Persona> lista = new List<Persona>();
+
+lista.Add(newPersona(,));
+lista.Add(persona1);
+
+foreach(Persona elemento in lista)
+elemento.MostrarPersona();
+
+lista.Sort(Pesona.Ordenar); -> le paso dir de memoria del metodo con el criterio de ordenamiento que desee(que retorne 1, 0 o -1)
+
+
+
