@@ -1,0 +1,13 @@
+C:\Users\Franco\Desktop\Parciales\Primer Parcial lab II\20181004 PP Lab II-HD\Entidades\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\Franco\Desktop\Parciales\Primer Parcial lab II\20181004 PP Lab II-HD\Entidades\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\Franco\Desktop\Parciales\Primer Parcial lab II\20181004 PP Lab II-HD\Entidades\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\Franco\Desktop\Parciales\Primer Parcial lab II\20181004 PP Lab II-HD\Entidades\VistaForm\bin\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Parciales\Primer Parcial lab II\20181004 PP Lab II-HD\Entidades\VistaForm\bin\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\Parciales\Primer Parcial lab II\20181004 PP Lab II-HD\Entidades\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Parciales\Primer Parcial lab II\20181004 PP Lab II-HD\Entidades\VistaForm\obj\Debug\VistaForm.FormDT.resources
+C:\Users\Franco\Desktop\Parciales\Primer Parcial lab II\20181004 PP Lab II-HD\Entidades\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\Franco\Desktop\Parciales\Primer Parcial lab II\20181004 PP Lab II-HD\Entidades\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Users\Franco\Desktop\Parciales\Primer Parcial lab II\20181004 PP Lab II-HD\Entidades\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Parciales\Primer Parcial lab II\20181004 PP Lab II-HD\Entidades\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+C:\Users\Franco\Desktop\Parciales\Primer Parcial lab II\20181004 PP Lab II-HD\Entidades\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\Franco\Desktop\Parciales\Primer Parcial lab II\20181004 PP Lab II-HD\Entidades\VistaForm\obj\Debug\VistaForm.pdb
