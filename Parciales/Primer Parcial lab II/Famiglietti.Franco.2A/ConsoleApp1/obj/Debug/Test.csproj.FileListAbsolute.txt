@@ -1,0 +1,30 @@
+D:\VisualStudio\Famiglietti.Franco.2A\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\VisualStudio\Famiglietti.Franco.2A\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\VisualStudio\Famiglietti.Franco.2A\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\VisualStudio\Famiglietti.Franco.2A\ConsoleApp1\bin\Debug\Entidades.dll
+D:\VisualStudio\Famiglietti.Franco.2A\ConsoleApp1\bin\Debug\Entidades.pdb
+D:\VisualStudio\Famiglietti.Franco.2A\ConsoleApp1\obj\Debug\Test.csprojAssemblyReference.cache
+D:\VisualStudio\Famiglietti.Franco.2A\ConsoleApp1\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Famiglietti.Franco.2A\ConsoleApp1\obj\Debug\Test.csproj.CopyComplete
+D:\VisualStudio\Famiglietti.Franco.2A\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\VisualStudio\Famiglietti.Franco.2A\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Franco\Desktop\Famiglietti.Franco.2A\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Franco\Desktop\Famiglietti.Franco.2A\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Franco\Desktop\Famiglietti.Franco.2A\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Franco\Desktop\Famiglietti.Franco.2A\ConsoleApp1\bin\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Famiglietti.Franco.2A\ConsoleApp1\bin\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\Famiglietti.Franco.2A\ConsoleApp1\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Famiglietti.Franco.2A\ConsoleApp1\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Famiglietti.Franco.2A\ConsoleApp1\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Franco\Desktop\Famiglietti.Franco.2A\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Franco\Desktop\Famiglietti.Franco.2A\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Franco\Desktop\parcial lab I\Famiglietti.Franco.2A\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Franco\Desktop\parcial lab I\Famiglietti.Franco.2A\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Franco\Desktop\parcial lab I\Famiglietti.Franco.2A\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Franco\Desktop\parcial lab I\Famiglietti.Franco.2A\ConsoleApp1\bin\Debug\Entidades.dll
+C:\Users\Franco\Desktop\parcial lab I\Famiglietti.Franco.2A\ConsoleApp1\bin\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\parcial lab I\Famiglietti.Franco.2A\ConsoleApp1\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\parcial lab I\Famiglietti.Franco.2A\ConsoleApp1\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\parcial lab I\Famiglietti.Franco.2A\ConsoleApp1\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Franco\Desktop\parcial lab I\Famiglietti.Franco.2A\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Franco\Desktop\parcial lab I\Famiglietti.Franco.2A\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
