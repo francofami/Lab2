@@ -1,0 +1,6 @@
+C:\Users\Franco\Desktop\20181004 PP Lab II-HD\Entidades\Entidades\bin\Debug\Entidades.dll
+C:\Users\Franco\Desktop\20181004 PP Lab II-HD\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\20181004 PP Lab II-HD\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\20181004 PP Lab II-HD\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\20181004 PP Lab II-HD\Entidades\Entidades\obj\Debug\Entidades.dll
+C:\Users\Franco\Desktop\20181004 PP Lab II-HD\Entidades\Entidades\obj\Debug\Entidades.pdb
