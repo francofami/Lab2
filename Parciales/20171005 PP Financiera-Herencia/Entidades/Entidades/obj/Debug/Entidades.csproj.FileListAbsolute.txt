@@ -1,0 +1,6 @@
+C:\Users\Franco\Desktop\Parciales\Primer Parcial lab II\20171005 PP Financiera-Herencia\Entidades\Entidades\bin\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Parciales\Primer Parcial lab II\20171005 PP Financiera-Herencia\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\Parciales\Primer Parcial lab II\20171005 PP Financiera-Herencia\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Parciales\Primer Parcial lab II\20171005 PP Financiera-Herencia\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Parciales\Primer Parcial lab II\20171005 PP Financiera-Herencia\Entidades\Entidades\obj\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Parciales\Primer Parcial lab II\20171005 PP Financiera-Herencia\Entidades\Entidades\obj\Debug\Entidades.pdb
