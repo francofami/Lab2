@@ -1,0 +1,13 @@
+C:\Users\Franco\Desktop\Recuperatorio Primer Parcial\obj\x86\Debug\RPP.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Recuperatorio Primer Parcial\obj\x86\Debug\PP.frmPP.resources
+C:\Users\Franco\Desktop\Recuperatorio Primer Parcial\obj\x86\Debug\PP.Properties.Resources.resources
+C:\Users\Franco\Desktop\Recuperatorio Primer Parcial\obj\x86\Debug\RPP.csproj.GenerateResource.cache
+C:\Users\Franco\Desktop\Recuperatorio Primer Parcial\obj\x86\Debug\RPP.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Recuperatorio Primer Parcial\bin\Debug\PP.exe.config
+C:\Users\Franco\Desktop\Recuperatorio Primer Parcial\bin\Debug\PP.exe
+C:\Users\Franco\Desktop\Recuperatorio Primer Parcial\bin\Debug\PP.pdb
+C:\Users\Franco\Desktop\Recuperatorio Primer Parcial\bin\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Recuperatorio Primer Parcial\bin\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\Recuperatorio Primer Parcial\obj\x86\Debug\RPP.csproj.CopyComplete
+C:\Users\Franco\Desktop\Recuperatorio Primer Parcial\obj\x86\Debug\PP.exe
+C:\Users\Franco\Desktop\Recuperatorio Primer Parcial\obj\x86\Debug\PP.pdb

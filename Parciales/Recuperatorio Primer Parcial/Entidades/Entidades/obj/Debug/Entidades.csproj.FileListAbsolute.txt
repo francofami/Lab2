@@ -1,0 +1,6 @@
+C:\Users\Franco\Desktop\Recuperatorio Primer Parcial\Entidades\Entidades\bin\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Recuperatorio Primer Parcial\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\Recuperatorio Primer Parcial\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Recuperatorio Primer Parcial\Entidades\Entidades\obj\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Recuperatorio Primer Parcial\Entidades\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\Recuperatorio Primer Parcial\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache

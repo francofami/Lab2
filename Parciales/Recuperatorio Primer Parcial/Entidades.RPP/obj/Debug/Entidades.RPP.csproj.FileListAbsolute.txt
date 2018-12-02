@@ -1,0 +1,6 @@
+C:\Users\Franco\Desktop\Recuperatorio Primer Parcial\Entidades.RPP\obj\Debug\Entidades.RPP.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Recuperatorio Primer Parcial\Entidades.RPP\obj\Debug\Entidades.RPP.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Recuperatorio Primer Parcial\Entidades.RPP\bin\Debug\Entidades.RPP.dll
+C:\Users\Franco\Desktop\Recuperatorio Primer Parcial\Entidades.RPP\bin\Debug\Entidades.RPP.pdb
+C:\Users\Franco\Desktop\Recuperatorio Primer Parcial\Entidades.RPP\obj\Debug\Entidades.RPP.dll
+C:\Users\Franco\Desktop\Recuperatorio Primer Parcial\Entidades.RPP\obj\Debug\Entidades.RPP.pdb
