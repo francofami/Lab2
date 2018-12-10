@@ -1,0 +1,11 @@
+-Copiar archivos en C:\Archivos de Programa\Microsoft SQL Server\MSSQL11.SQLEXPRESS\MSSQL\DATA
+-Abrir Iniciar SQL Server
+-Abrir SQL Management Studio y conecto la base de datos
+-Click derecho en base de datos o Databases -> agregar o attach y agrego el mdf
+
+
+Desde Visual:
+prop de proyecto -> configuracion
+tipo (cadena de conexion) en valor SQL Server pongo mi pc y al final \SQLEXPRESS
+y abajo en seleccionar o escribir el nombre de la base de datos elijo la base de datos
+en SqlConnection conexion copio lo que sale en el valor de SQL server @""
