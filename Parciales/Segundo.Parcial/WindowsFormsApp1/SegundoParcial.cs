@@ -166,6 +166,8 @@ namespace SP
         //Invocar al metodo AgregarFrutas():bool
         private void btnPunto7_Click(object sender, EventArgs e)
         {
+            //if (SegundoParcial.AgregarFrutas(this))
+
             if (SegundoParcial.AgregarFrutas())
             {
                 MessageBox.Show("Se agregaron las frutas a la Base de Datos");
@@ -242,5 +244,39 @@ namespace SP
 
             return retorno;
         }
+
+        /*private static bool AgregarFrutas(SegundoParcial frm)
+        {
+            List<Fruta> l = new List<Fruta>();
+            l.Add(frm._manzana);
+            l.Add(frm._banana);
+            l.Add(frm._durazno);
+            SqlConnection conexion = new SqlConnection(Properties.Settings.Default.cone);
+            SqlCommand command = new SqlCommand();
+            command.CommandType = CommandType.Text;
+            command.Connection = conexion;
+            foreach (Fruta item in l)
+            {
+                string cadena = "INSERT INTO sp_lab_II.dbo.frutas (nombre, peso, precio) values (";
+                if (item is Manzana)
+                    cadena += string.Format("'manzana', {0}, {1})", item.Peso, (double)3);
+                if (item is Durazno)
+                    cadena += string.Format("'durazno', {0}, {1})", item.Peso, (double)9);
+                if (item is Banana)
+                    cadena += string.Format("'banana', {0}, {1})", item.Peso, (double)15);
+                command.CommandText = cadena;
+                try
+                {
+                    conexion.Open();
+                    command.ExecuteNonQuery();
+                    conexion.Close();
+                }
+                catch (Exception)
+                {
+                    return false;
+                }
+            }
+            return true;
+        }*/
     }
 }
